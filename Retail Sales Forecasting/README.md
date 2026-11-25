@@ -90,7 +90,7 @@ The interactive dashboard consists of four main pages:
 3. **Model Performance** – Comparison of forecasting models.
 4. **Inventory Planning** – Simulated inventory indicators and replenishment prioritization.
 
-**Live Dashboard:** [Insert Streamlit URL after deployment]
+**Live Dashboard:** https://retail-sales-forecasting-rena.streamlit.app/
 
 ## Tech Stack
 
