@@ -56,27 +56,6 @@ Developed a multiclass classification model to predict student academic outcomes
 - **Data Visualization:** Matplotlib, Seaborn, Plotly, Streamlit
 - **Tools & Platforms:** Google Colab, Jupyter Notebook, VS Code, Git, GitHub
 
-## Repository Structure
-
-```text
-Data-Science/
-│
-├── Retail Sales Forecasting/
-│   ├── Data/
-│   ├── notebooks/
-│   ├── dashboard/
-│   ├── models/
-│   ├── README.md
-│   └── requirements.txt
-│
-├── Student Academic Status Prediction/
-│   ├── Data/
-│   ├── README.md
-│   └── Student Academic Status Prediction.ipynb
-│
-└── README.md
-```
-
 ## Contact
 
 - **GitHub:** [Renaylaa](https://github.com/Renaylaa)
