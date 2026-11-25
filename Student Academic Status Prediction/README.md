@@ -36,12 +36,6 @@ Semester 2 features were removed to simulate prediction at the end of semester 1
 - Single institution and single train-test split.
 - Planned: class weights or oversampling, XGBoost tuning, stratified k-fold evaluation, and a fairness check on sensitive attributes.
 
-## How to Run
-1. Clone the repository and install dependencies: `pip install -r requirements.txt`
-2. Download the dataset from the UCI link in `data/README.md`
-3. Open `notebooks/01_student_status_prediction.ipynb` and run all cells
-   (or use the "Open in Colab" badge)
-
 ## Author
 Renajwa Naylafasya | LinkedIn: http://www.linkedin.com/in/renajwa-n | Email: renanylaa22@gmail.com
 
